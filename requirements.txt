@@ -4,3 +4,5 @@ requests
 pandas
 plotly
 streamlit
+python-telegram-bot==20.8
+requests
